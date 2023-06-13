@@ -13,4 +13,5 @@ https://cookmate-sm5m2qi7wa-as.a.run.app/
 ## API Description
 ## Installation Requirements
 ## How to use
+`npm init`
 ## Author
